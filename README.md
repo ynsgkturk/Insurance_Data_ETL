@@ -20,4 +20,4 @@ Transformed data load into trino (not tested yet) or csv.
 ``load_data(data, save_path)``
 
 # Kaggle Notebook
-Check [this kaggle notebook]() that I prepared for Exploratory Data Analysis (EDA) and modeling. 
+Check [this kaggle notebook](https://www.kaggle.com/code/yunusemregktrk/insurance-data-analysis-using-pyspark) that I prepared for Exploratory Data Analysis (EDA) and modeling. 
